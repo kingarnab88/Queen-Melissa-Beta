@@ -13,10 +13,10 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '6295703349'
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
-global.ownername = "SenuBoy" //ur owner name
+global.vcardowner = ['6295703349'] //ur owner number
+global.ownername = "THOMAS SHELBY" //ur owner name
 global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
+global.owner = ['6295703349']
+global.ownertag = '6295703349' //ur tag number
+global.botname = 'KING ARNAB BOT ' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
-global.reactmoji = "💖" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
-global.author = "SenuBoy" //ur sticker watermark author
+global.reactmoji = "❄️" //ur menu react emoji
+global.themeemoji = "🫂" //ur theme emoji
+global.packname = "THE KING ARNAB" //ur sticker watermark packname
+global.author = "THE KING ARNAB" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94753420144'] //ur premium numbers
+global.premium = ['6295703349'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
